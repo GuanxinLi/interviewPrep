@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0ea021e-335b-402d-84f9-171113342887" name="Default" comment="" />
+    <list default="true" id="f0ea021e-335b-402d-84f9-171113342887" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/arrayList_guanxin.java" afterPath="$PROJECT_DIR$/src/arrayList_guanxin.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,9 +17,14 @@
       <file leaf-file-name="arrayList_guanxin.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/arrayList_guanxin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="165">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
+                <element signature="e#464#465#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -242,9 +249,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/arrayList_guanxin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="165">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
